@@ -1,6 +1,8 @@
 # Portfolio
 
-Welcome to my personal portfolio, built with **React**, **TypeScript**, and **Vite**. This project showcases my skills, experience, and work in web development, presenting a clean, modern interface. The portfolio is fully responsive and optimized for a seamless experience across devices.
+Welcome to my personal portfolio, built with **HTML**, **CSS**, **React**, **TypeScript**, and **Vite**. This project showcases my skills, experience, and work in web development, presenting a clean, modern interface. The portfolio is fully responsive and optimized for a seamless experience.
+
+---
 
 ## Technologies Used
 
@@ -13,6 +15,8 @@ Welcome to my personal portfolio, built with **React**, **TypeScript**, and **Vi
 - **react-router-dom**: For client-side routing, enabling smooth navigation between sections.
 - **tsparticles**: To create interactive particle animations for an engaging user experience.
 
+---
+
 ## Features
 
 - **Smooth Animations**: Interactive animations powered by **Framer Motion** and **tsparticles**.
@@ -20,9 +24,15 @@ Welcome to my personal portfolio, built with **React**, **TypeScript**, and **Vi
 - **React Router**: For smooth navigation between different sections without page reloads.
 - **Context Aware**: Design theme changes according to the time of the day.
 
-## Screenshots
+---
 
-| Home Page | Projects | About Me | Contact |
-|-----------|------------|---------|-----------|
-| ![Home Page](./portfolio/assets/pics/ss1.png) | ![Projects](./portfolio/assets/pics/ss2.png) | ![About Me](./portfolio/assets/pics/ss3.png) | ![Contact](./portfolio/assets/pics/ss4.png) |
+## Interface (Night Mode)
+
+| Home Page | Projects |
+|-----------|------------|
+| ![Home Page](./src/assets/pics/ss1.png) | ![Projects](./src/assets/pics/ss2.png) |
+
+| About Me | Contact |
+|-----------|------------|
+| ![About Me](./src/assets/pics/ss3.png) | ![Contact](./src/assets/pics/ss4.png) |
 
