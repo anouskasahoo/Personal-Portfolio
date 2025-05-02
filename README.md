@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio, built with **HTML**, **CSS**, **React**, **TypeScript**, and **Vite**. This project showcases my skills, experience, and work in web development, presenting a clean, modern interface. The portfolio is fully responsive and optimized for a seamless experience.
 
+[Click here to view!](https://6805355a90e7b577ae6ff99b--delightful-arithmetic-666a3a.netlify.app/)
+
 ---
 
 ## Technologies Used
